@@ -1,5 +1,5 @@
 // Programmers: Josue Sanchez
-// Course: CS 212, Mr. John Nweke
+// Course: CS 212, Mr.John Nweke
 // Due Date: 02/01/2024
 //Lab Assignment: 3
 // Problem Statement: Determine the distance and points for the user.
